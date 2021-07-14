@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app1.js",
     "dev" : "nodemon src/app1.js -e js,hbs"
   },
   "keywords": [],
